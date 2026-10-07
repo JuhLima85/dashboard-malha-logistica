@@ -4,6 +4,12 @@ Dashboard interativo para análise da malha logística, desenvolvido para consol
 
 A aplicação apresenta dados de notas fiscais, peso transportado, CT-es emitidos e custos logísticos em uma interface responsiva, com filtros dinâmicos e mapa do Brasil.
 
+## Prévia do dashboard
+
+<p align="center">
+  <img src="assets/dashboard-preview.png" alt="Dashboard de Malha Logística" width="100%">
+</p>
+
 ## Funcionalidades
 
 - Indicadores de valor total das notas fiscais, peso transportado, CT-es emitidos e custos logísticos.
