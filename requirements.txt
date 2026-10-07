@@ -1,0 +1,6 @@
+pyodbc==5.2.0
+streamlit
+pandas
+plotly
+requests
+openpyxl

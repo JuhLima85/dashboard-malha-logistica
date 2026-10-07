@@ -1,0 +1,96 @@
+V360[Nome da Origem]
+V360[data_de_emissao_da_cte]
+V360[modal]
+V360[cfop_da_cte]
+V360[tipo_de_cte]
+V360[numero_da_cte]
+V360[chave_de_acesso_do_cte]
+V360[chave_de_acesso_nota]
+V360[cnpj_do_remetente]
+V360[remetente]
+V360[municipio_inicial_de_prestacao]
+V360[uf_inicial_de_prestacao]
+V360[cnpj_do_destinatario]
+V360[destinatario]
+V360[municipio_final_de_prestacao]
+V360[uf_final_de_prestacao]
+V360[cnpj_do_cliente]
+V360[razao_social_do_cliente]
+V360[nome_da_cidade_do_tomador]
+V360[cnpj_do_transportador]
+V360[transportador]
+V360[peso_total]
+V360[peso_cubado]
+V360[base_icms_do_cte]
+V360[aliquota_icms_do_cte]
+V360[valor_icms_do_cte]
+V360[valor_total_da_carga]
+V360[informacoes_adicionais]
+V360[nome_da_ultima_tarefa]
+V360[tipo_produto]
+V360[adv]
+V360[agendamento]
+V360[armazenagem]
+V360[capatazia]
+V360[coleta]
+V360[dedicado]
+V360[descarga]
+V360[devolucao]
+V360[diaria]
+V360[entrega]
+V360[frete_minimo]
+V360[frete_peso]
+V360[frete_valor]
+V360[gelo]
+V360[gris]
+V360[icms]
+V360[outras]
+V360[paletizacao]
+V360[pedagio]
+V360[reentrega]
+V360[taxa_noturna]
+V360[taxas]
+V360[tda_coleta]
+V360[tda_entrega]
+V360[tde_coleta]
+V360[tde_entrega]
+V360[valor_a_receber_ajustado]
+V360[Frete s/ ICMS]
+V360[Frete Líquido]
+V360[ID CNPJ_Trasnsferência]
+V360[Fob.TIPO DE FATURAMENTO]
+V360[Filiais.Tipo Faturamento]
+V360[Tipo de Faturamento]
+V360[Empresas.Descrição Filiais]
+V360[Empresas.Empresas]
+V360[Transportadoras.Transportadora]
+V360[Regiões1.REGIÃO]
+V360[data_de_emissao_da_cte (Ano)]
+V360[data_de_emissao_da_cte (Trimestre)]
+V360[data_de_emissao_da_cte (Mês)]
+V360[data_de_emissao_da_cte (Índice de Mês)]
+rota
+Modal
+Parceiros
+Triangulaçãoes
+Transferencia
+placa
+Custo agregado trsnf
+NR romaneio Transf
+Origem Transf
+Destino Transf
+Frota transf
+Frota transf2
+Distribuição
+placa3
+Custo agregado Distribui
+NR romaneio Distrib.
+Origem Distrib
+Destino Distrib.
+Frota propria
+Frota dist
+Custo Frota Própria
+Rateio Custo Frota Própria
+Produto
+Cap/Inter
+Operação
